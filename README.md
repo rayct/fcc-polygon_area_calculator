@@ -4,8 +4,8 @@ This is the boilerplate for the Probability Calculator project. Instructions for
 
 ## In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
-Rectangle class
-When a Rectangle object is created, it should be initialized with width and height attributes. The class should also contain the following methods:
+### Rectangle class
+### When a Rectangle object is created, it should be initialized with width and height attributes. The class should also contain the following methods:
 
 set_width
 set_height
@@ -46,17 +46,17 @@ That code should return:
 50
 26
 Rectangle(width=10, height=3)
-**********
-**********
-**********
+### **********
+### **********
+### **********
 
 81
 5.656854249492381
 Square(side=4)
-****
-****
-****
-****
+### ****
+### ****
+### ****
+### ****
 
 8
 The unit tests for this project are in test_module.py.
