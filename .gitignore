@@ -1,0 +1,6 @@
+# mac hidden files
+vscode
+.DS_Store
+
+# venv
+polygon_area_calculator_venv
